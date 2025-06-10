@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmpMnt_Api.props" />
+</Project>

@@ -1,0 +1,15 @@
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\bin\Debug\net8.0\DATA.deps.json
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\bin\Debug\net8.0\DATA.runtimeconfig.json
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\bin\Debug\net8.0\DATA.dll
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\bin\Debug\net8.0\DATA.pdb
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.csproj.AssemblyReference.cache
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.AssemblyInfoInputs.cache
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.AssemblyInfo.cs
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.csproj.CoreCompileInputs.cache
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.sourcelink.json
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.dll
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\refint\DATA.dll
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.pdb
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\DATA.genruntimeconfig.cache
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DATA\obj\Debug\net8.0\ref\DATA.dll

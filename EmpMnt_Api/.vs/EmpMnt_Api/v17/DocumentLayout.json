@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50632CB6-D2C6-4F08-9365-26107137C5E6}|EmpMnt_Client\\EmpMnt_Client.csproj|d:\\datta_git\\bookexpert_employee_management\\empmnt_api\\empmnt_client\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50632CB6-D2C6-4F08-9365-26107137C5E6}|EmpMnt_Client\\EmpMnt_Client.csproj|solutionrelative:empmnt_client\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50632CB6-D2C6-4F08-9365-26107137C5E6}|EmpMnt_Client\\EmpMnt_Client.csproj|d:\\datta_git\\bookexpert_employee_management\\empmnt_api\\empmnt_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50632CB6-D2C6-4F08-9365-26107137C5E6}|EmpMnt_Client\\EmpMnt_Client.csproj|solutionrelative:empmnt_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C76E3D-6C7C-4D55-B416-988AD8E51E04}|EmpMnt_Api\\EmpMnt_Api.csproj|d:\\datta_git\\bookexpert_employee_management\\empmnt_api\\empmnt_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C76E3D-6C7C-4D55-B416-988AD8E51E04}|EmpMnt_Api\\EmpMnt_Api.csproj|solutionrelative:empmnt_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD522E3-1D2B-418A-8D7E-746C4B80C84B}|BAL\\BAL.csproj|d:\\datta_git\\bookexpert_employee_management\\empmnt_api\\bal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD522E3-1D2B-418A-8D7E-746C4B80C84B}|BAL\\BAL.csproj|solutionrelative:bal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD522E3-1D2B-418A-8D7E-746C4B80C84B}|BAL\\BAL.csproj|d:\\datta_git\\bookexpert_employee_management\\empmnt_api\\bal\\iemployeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD522E3-1D2B-418A-8D7E-746C4B80C84B}|BAL\\BAL.csproj|solutionrelative:bal\\iemployeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F374AC90-89FE-4A5B-81D5-74680E49F7FC}|DAL\\DAL.csproj|d:\\datta_git\\bookexpert_employee_management\\empmnt_api\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F374AC90-89FE-4A5B-81D5-74680E49F7FC}|DAL\\DAL.csproj|solutionrelative:dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F374AC90-89FE-4A5B-81D5-74680E49F7FC}|DAL\\DAL.csproj|d:\\datta_git\\bookexpert_employee_management\\empmnt_api\\dal\\iemployeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F374AC90-89FE-4A5B-81D5-74680E49F7FC}|DAL\\DAL.csproj|solutionrelative:dal\\iemployeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\BX_Employee_Management\\WEB_Client_Frontend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50632CB6-D2C6-4F08-9365-26107137C5E6}|EmpMnt_Client\\EmpMnt_Client.csproj|d:\\datta_git\\bookexpert_employee_management\\empmnt_api\\empmnt_client\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50632CB6-D2C6-4F08-9365-26107137C5E6}|EmpMnt_Client\\EmpMnt_Client.csproj|solutionrelative:empmnt_client\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\EmpMnt_Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmpMnt_Client\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\EmpMnt_Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmpMnt_Client\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:55:41.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\EmpMnt_Client\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmpMnt_Client\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\EmpMnt_Client\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmpMnt_Client\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:00:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\EmpMnt_Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmpMnt_Api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\EmpMnt_Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmpMnt_Api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:55:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeBal.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\BAL\\IEmployeeBal.cs",
+              "RelativeDocumentMoniker": "BAL\\IEmployeeBal.cs",
+              "ToolTip": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\BAL\\IEmployeeBal.cs",
+              "RelativeToolTip": "BAL\\IEmployeeBal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:47:59.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeDal.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\DAL\\IEmployeeDal.cs",
+              "RelativeDocumentMoniker": "DAL\\IEmployeeDal.cs",
+              "ToolTip": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\DAL\\IEmployeeDal.cs",
+              "RelativeToolTip": "DAL\\IEmployeeDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:40:41.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDal.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\DAL\\EmployeeDal.cs",
+              "RelativeDocumentMoniker": "DAL\\EmployeeDal.cs",
+              "ToolTip": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\DAL\\EmployeeDal.cs",
+              "RelativeToolTip": "DAL\\EmployeeDal.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:40:05.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeBal.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\BAL\\EmployeeBal.cs",
+              "RelativeDocumentMoniker": "BAL\\EmployeeBal.cs",
+              "ToolTip": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\BAL\\EmployeeBal.cs",
+              "RelativeToolTip": "BAL\\EmployeeBal.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:48:48.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\BX_Employee_Management\\WEB_Client_Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\projects\\BX_Employee_Management\\WEB_Client_Frontend\\Program.cs",
+              "ToolTip": "D:\\projects\\BX_Employee_Management\\WEB_Client_Frontend\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\projects\\BX_Employee_Management\\WEB_Client_Frontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:47:30.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\EmpMnt_Client\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpMnt_Client\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Datta_Git\\BookExpert_Employee_Management\\EmpMnt_Api\\EmpMnt_Client\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmpMnt_Client\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T09:07:53.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

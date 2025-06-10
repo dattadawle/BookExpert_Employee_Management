@@ -1,0 +1,12 @@
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\bin\Debug\net8.0\DTO.dll
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\bin\Debug\net8.0\DTO.pdb
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\DTO.dll
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\DTO.pdb
+D:\Datta_Git\BookExpert_Employee_Management\EmpMnt_Api\DTO\obj\Debug\net8.0\ref\DTO.dll
